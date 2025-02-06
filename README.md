@@ -6,8 +6,12 @@
 
 Чертежи деталей : тут обязательно пдф файлы
 
-Электрические схемы:
+  Электрические схемы
+
 передатчик:
+
 ![image](https://github.com/user-attachments/assets/4ff47d3b-b48e-408a-bbf3-a7023f506979)
+
 приёмник:
+
 ![image](https://github.com/user-attachments/assets/8c8e84da-ed08-464d-b5e9-fe64c0c0de23)
