@@ -2,7 +2,7 @@
 
 - Программный код в виде текстового файла находится в файлах reciver.ino и transmitter.ino
 
-- Ссылка на диск, на котором находятся все используемые в проекте трёхмерные модели : https://disk.yandex.ru/d/nkPj1JDqOYcHGQ
+- Ссылка на диск, на котором находятся все используемые в проекте трёхмерные модели : https://disk.yandex.ru/d/Syy_QLJSUbcuoA
 
 - Ссылка на диск, на котором находятся видео :[ https://disk.yandex.ru/d/IrjNs3byu1R8tQ](https://disk.yandex.ru/d/IrjNs3byu1R8tQ)
 
