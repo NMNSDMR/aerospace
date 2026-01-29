@@ -4,7 +4,7 @@
 
 - Ссылка на диск, на котором находятся все используемые в проекте трёхмерные модели и чертежи к ним : https://disk.yandex.ru/d/Syy_QLJSUbcuoA
 
-- Ссылка на диск, на котором находятся видео :[ https://disk.yandex.ru/d/IrjNs3byu1R8tQ](https://disk.yandex.ru/d/IrjNs3byu1R8tQ)
+- Ссылка на диск, на котором находятся видео :[ https://disk.yandex.ru/d/IrjNs3byu1R8tQ](https://disk.yandex.ru/d/IrjNyu1R8tQ)
 
 
 
